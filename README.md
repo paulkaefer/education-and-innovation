@@ -77,8 +77,4 @@ If you want to run tests automatically on a Continuous Integration Server, for e
 Command Line Interface allows you to run previously created Kinesis tests and integrate it with the CI tool of your choice.
 
 For more information on the integration of Kinesis CI and Jenkins, please see https://kinesis-ci.com/documents/#/continuous-integration
-<<<<<<< HEAD
 
-
-=======
->>>>>>> parent of 447d6ba... Update README.md
