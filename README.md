@@ -1,8 +1,9 @@
 # Kinesis-CI - Sample Project
 
-Note: September 8th 2021 - This GitHub is no longer updated by the software vendor.  Please use our rebranded site: https://github.com/WiiisdomOps
+Important Note:
+September 8th 2021 - This GitHub is no longer updated by the software vendor.  Please use our rebranded site: https://github.com/WiiisdomOps
 
-[![Build Status](http://jenkins.kinesis-ci.com:8081/buildStatus/icon?job=GitHub_-_Education_and_Innovation)](http://jenkins.kinesis-ci.com:8081/job/GitHub_-_Education_and_Innovation)
+
 
 Education and innovation is a sample project for users of the Kinesis CI tool for Tableau.
 Kinesis CI is a test framework that adds automated testing and continuous integration capability to Tableau Server.
@@ -79,8 +80,4 @@ If you want to run tests automatically on a Continuous Integration Server, for e
 Command Line Interface allows you to run previously created Kinesis tests and integrate it with the CI tool of your choice.
 
 For more information on the integration of Kinesis CI and Jenkins, please see https://kinesis-ci.com/documents/#/continuous-integration
-<<<<<<< HEAD
 
-
-=======
->>>>>>> parent of 447d6ba... Update README.md
