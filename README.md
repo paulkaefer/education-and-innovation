@@ -1,5 +1,7 @@
 # Kinesis-CI - Sample Project
 
+Note: September 8th 2021 - This GitHub is no longer updated by the software vendor.  Please use our rebranded site: https://github.com/WiiisdomOps
+
 [![Build Status](http://jenkins.kinesis-ci.com:8081/buildStatus/icon?job=GitHub_-_Education_and_Innovation)](http://jenkins.kinesis-ci.com:8081/job/GitHub_-_Education_and_Innovation)
 
 Education and innovation is a sample project for users of the Kinesis CI tool for Tableau.
